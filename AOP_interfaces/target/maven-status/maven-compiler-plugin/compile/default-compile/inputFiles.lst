@@ -1,0 +1,8 @@
+E:\Projects\Java\4-AOP\AOP_Tasks\AOP_interfaces\src\main\java\com\example\interfaces\AppConfig.java
+E:\Projects\Java\4-AOP\AOP_Tasks\AOP_interfaces\src\main\java\com\example\interfaces\InventoryService.java
+E:\Projects\Java\4-AOP\AOP_Tasks\AOP_interfaces\src\main\java\com\example\interfaces\InventoryServiceImpl.java
+E:\Projects\Java\4-AOP\AOP_Tasks\AOP_interfaces\src\main\java\com\example\interfaces\LoggingAfterReturningAdvice.java
+E:\Projects\Java\4-AOP\AOP_Tasks\AOP_interfaces\src\main\java\com\example\interfaces\LoggingBeforeAdvice.java
+E:\Projects\Java\4-AOP\AOP_Tasks\AOP_interfaces\src\main\java\com\example\interfaces\LoggingThrowsAdvice.java
+E:\Projects\Java\4-AOP\AOP_Tasks\AOP_interfaces\src\main\java\com\example\interfaces\Main.java
+E:\Projects\Java\4-AOP\AOP_Tasks\AOP_interfaces\src\main\java\com\example\interfaces\TimingInterceptor.java
