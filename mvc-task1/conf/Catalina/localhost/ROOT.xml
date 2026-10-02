@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="/run/media/mina/New Volume/Projects/Java/5-SpringMVC/MVC_Tasks/MVC2/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="/run/media/mina/New Volume/Projects/Java/5-SpringMVC/MVC_Tasks/MVC2/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="/home/mina/.m2/repository/org/springframework/spring-webmvc/6.1.0/spring-webmvc-6.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-webmvc-6.1.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/springframework/spring-aop/6.1.0/spring-aop-6.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-aop-6.1.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/springframework/spring-beans/6.1.0/spring-beans-6.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-beans-6.1.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/springframework/spring-context/6.1.0/spring-context-6.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-context-6.1.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/io/micrometer/micrometer-observation/1.12.0/micrometer-observation-1.12.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/micrometer-observation-1.12.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/io/micrometer/micrometer-commons/1.12.0/micrometer-commons-1.12.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/micrometer-commons-1.12.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/springframework/spring-core/6.1.0/spring-core-6.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-core-6.1.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/springframework/spring-jcl/6.1.0/spring-jcl-6.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-jcl-6.1.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/springframework/spring-expression/6.1.0/spring-expression-6.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-expression-6.1.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/springframework/spring-web/6.1.0/spring-web-6.1.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-web-6.1.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.el-api-5.0.0.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/slf4j-api-2.0.9.jar"/>
+    <PostResources base="/home/mina/.m2/repository/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/logback-classic-1.4.14.jar"/>
+    <PostResources base="/home/mina/.m2/repository/ch/qos/logback/logback-core/1.4.14/logback-core-1.4.14.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/logback-core-1.4.14.jar"/>
+    <PostResources base="/home/mina/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.validation-api-3.0.2.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/hibernate-validator-8.0.1.Final.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jboss-logging-3.4.3.Final.jar"/>
+    <PostResources base="/home/mina/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/classmate-1.5.1.jar"/>
+    <PostResources base="/home/mina/.m2/repository/org/glassfish/jakarta.el/4.0.2/jakarta.el-4.0.2.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.el-4.0.2.jar"/>
+  </Resources>
+</Context>
